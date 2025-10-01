@@ -13,7 +13,7 @@ services:
         environment:
             EULA: "true"
             TYPE: PAPER
-            VERSION: 1.19.3
+            VERSION: 1.21.9
             # needed for Paper versions before 1.14
             CONSOLE: "false"
             ONLINE_MODE: "false"
